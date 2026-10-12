@@ -3,7 +3,7 @@ import ProjectContainer from "../components/ProjectContainer";
 function MyWork() {
   const project = {
     name: "Deckbox",
-    image: "p1 image",
+    image: "src/assets/photos/Deckbox_FullScreen.png",
     desc: "a replica of Moxfield using the skills I currently have",
     technologies: ["React", "Node", "Express", "Json"],
     github: "https://github.com/Tevvels/deckbox",
@@ -24,7 +24,7 @@ function MyWork() {
       {/* Pure Grid Wrapper layout */}
       <div className="projectGrid glass-parallax-background">
         <ProjectContainer prop="project-deckbox" project={project} />
-
+        
       </div>
     </section>
   );

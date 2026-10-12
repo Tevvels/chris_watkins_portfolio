@@ -11,7 +11,7 @@ function ProjectContainer(props) {
         <p className="projectDesc">{project.desc}</p>
       </div>
       <div className="projectPreview">
-        <span className="projectPlaceholder">{project.image}</span>
+        <img src={project.image} alt={`${project.name} preview`} />
       </div>
       <div className="projectMeta ">
         <div className="projectTechnologies">
