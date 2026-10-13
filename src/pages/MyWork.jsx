@@ -3,7 +3,7 @@ import ProjectContainer from "../components/ProjectContainer";
 function MyWork() {
   const project = {
     name: "Deckbox",
-    image: "/assets/photos/Deckbox_FullScreen.jpg",
+    image: "src/assets/photos/Deckbox_FullScreen.jpg",
     desc: "a replica of Moxfield using the skills I currently have",
     technologies: ["React", "Node", "Express", "Json"],
     github: "https://github.com/Tevvels/deckbox",
