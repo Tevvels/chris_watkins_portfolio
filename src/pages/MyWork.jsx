@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectContainer from "../components/ProjectContainer";
-import DeckboxProject from "../assets/photos/Deckbox_Fullscreen.jpg";
+import DeckboxProject from "/assets/photos/Deckbox_Fullscreen.jpg";
 function MyWork() {
   const project = {
     name: "Dckbox",
