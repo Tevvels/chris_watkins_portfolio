@@ -1,68 +1,60 @@
-# Deckbox
+# Christopher Watkins Portfolio
 
-A full-stack Magic: The Gathering deck-building application inspired by Moxfield. Deckbox allows users to search cards, build decks, manage collections, and organize Commander strategies through an intuitive React-based interface.
+A modern developer portfolio showcasing full-stack engineering projects, technical skills, and professional experience.
 
-🌐 **Live Demo:**  
-https://deckbox-r8ok.vercel.app/
-
-🎨 **Portfolio:**  
+🌐 **Live Site**  
 https://chris-watkins-portfolio-g3rb25tib-tevvels-projects.vercel.app/
 
-📂 **Repository:**  
+📂 **GitHub**  
+https://github.com/Tevvels
+
+---
+
+## About
+
+I'm a software engineer with a background in Treasury Management Operations, where I spent several years solving complex operational challenges, improving workflows, and supporting critical business systems.
+
+Today, I focus on building full-stack web applications using React, Node.js, Express, and PostgreSQL. My goal is to combine strong technical skills with real-world business experience to create reliable and user-focused software.
+
+This portfolio serves as a central place to showcase projects, technical growth, and engineering capabilities.
+
+---
+
+## Featured Projects
+
+### Deckbox
+
+A full-stack Magic: The Gathering deck-building platform inspired by Moxfield.
+
+#### Highlights
+
+- React frontend
+- Express backend
+- PostgreSQL database
+- Commander legality filtering
+- Dynamic card searching
+- Responsive design
+- RESTful API architecture
+
+**Live Demo:**  
+https://deckbox-r8ok.vercel.app/
+
+**Source Code:**  
 https://github.com/Tevvels/deckbox
 
 ---
 
-## Overview
-
-Deckbox was built to strengthen my full-stack engineering skills while combining my passion for Magic: The Gathering with modern web development practices.
-
-The application focuses on:
-
-- Responsive user experiences
-- Dynamic data retrieval
-- State management
-- RESTful API integration
-- Full CRUD operations
-- Collection and deck management workflows
-
----
-
-## Features
-
-### Card Search
-- Search Magic cards using external API data
-- Filter results by format and criteria
-- View detailed card information
-
-### Deck Building
-- Create custom decks
-- Add and remove cards
-- Track deck composition
-- Commander legality filtering
-
-### User Experience
-- Fully responsive design
-- Modern component architecture
-- Efficient state management
-- Fast client-side navigation
-
-### Authentication
-- User registration
-- Secure login system
-- Personalized deck management
-
----
-
-## Tech Stack
+## Technical Skills
 
 ### Frontend
 
 - React
-- React Router
 - JavaScript
+- HTML5
 - CSS3
+- React Router
 - Responsive Design
+- Component Architecture
 
 ### Backend
 
@@ -70,95 +62,67 @@ The application focuses on:
 - Express
 - REST APIs
 
-### Database
+### Databases
 
 - PostgreSQL
+- SQL
 
-### Deployment
+### Tools
 
+- Git
+- GitHub
 - Vercel
 - Render
+- Postman
 
 ---
 
-## Architecture
+## Engineering Focus
 
-```text
-React Frontend
-      │
-      ▼
-Express API Server
-      │
-      ▼
- PostgreSQL Database
-```
+I enjoy building applications that emphasize:
 
----
+- Reliability
+- Maintainability
+- User experience
+- Clean architecture
+- API integration
+- Data-driven workflows
 
-## Screenshots
+My long-term interests include:
 
-### Home Page
-
-![Deckassets/photos/Deckbox_FullScreen.jpg
-
----
-
-## Challenges Solved
-
-During development I focused on solving several practical engineering problems:
-
-- Managing complex React state across multiple components
-- Implementing Commander-specific deck legality checks
-- Optimizing API calls and search performance
-- Building reusable UI components
-- Structuring backend routes for maintainability
+- Full-stack development
+- Backend engineering
+- Internal tools
+- Platform reliability
+- Observability systems
 
 ---
 
-## Lessons Learned
+## Professional Background
 
-Through this project I gained hands-on experience with:
+Prior to software development, I worked in Treasury Management Operations where I supported financial processes, investigated operational issues, analyzed workflows, and collaborated across business teams.
 
-- Component-driven development
-- React hooks and state management
-- REST API design
-- Database relationships
-- Full-stack application deployment
-- Debugging production issues
+The transition into engineering has allowed me to apply those same problem-solving skills to building software solutions.
 
 ---
 
-## Future Improvements
+## Portfolio Features
 
-- Advanced deck analytics
-- Deck sharing
-- Collection tracking
-- Card recommendations
-- Performance monitoring dashboard
-- Automated testing suite
-
----
-
-## About the Developer
-
-**Christopher Watkins**
-
-Former Treasury Management Operations Specialist transitioning into Software Engineering with a focus on full-stack web development and reliable system design.
-
-### Connect
-
-- Portfolio: https://chris-watkins-portfolio-g3rb25tib-tevvels-projects.vercel.app/
-- GitHub: https://github.com/Tevvels
-- LinkedIn: [Add LinkedIn URL]
+- Responsive design
+- Project showcase section
+- Skills overview
+- Professional background
+- Contact links
+- Modern UI implementation
 
 ---
 
-## Local Development
+## Running Locally
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Tevvels/deckbox.git
+git clone https://github.com/Tevvels/[portfolio-repo-name].git
 ```
 
 Install dependencies:
@@ -173,14 +137,30 @@ Start the development server:
 npm run dev
 ```
 
-Backend:
+---
 
-```bash
-npm start
-```
+## Contact
+
+### Christopher Watkins
+
+- Portfolio: https://chris-watkins-portfolio-g3rb25tib-tevvels-projects.vercel.app/
+- GitHub: https://github.com/Tevvels
+- LinkedIn: [Add LinkedIn URL]
+
+---
+
+## Future Enhancements
+
+- Additional project case studies
+- Project walkthrough videos
+- Technical blog section
+- Project filtering
+- Accessibility improvements
+- Performance optimization
 
 ---
 
 ## License
 
-This project is licensed under the MIT License.
+This project is available under the MIT License.
+``
