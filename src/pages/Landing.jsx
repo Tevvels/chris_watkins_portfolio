@@ -2,7 +2,7 @@ import React from "react";
 import "../Styles/Landing.css";
 import "../Styles/Grid.css";
 import WatkinsPhoto from "../assets/photos/Watkins_Chris_02.jpg";
-
+  
 function Landing() {
   return (
     <div className=" landing landingGrid ">

@@ -23,8 +23,8 @@ function Contact() {
       email: "",
       message: "",
     });
-  };
-
+  };  
+  
   return (
     <div className=" contactGrid ">
       <div className="contactGrid-contact glass-content">
