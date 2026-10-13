@@ -1,9 +1,10 @@
 import React from "react";
 import ProjectContainer from "../components/ProjectContainer";
+import DeckboxProject from "../assets/photos/Deckbox_Fullscreen.jpg";
 function MyWork() {
   const project = {
-    name: "Deckbox",
-    image: "src/assets/photos/Deckbox_FullScreen.jpg",
+    name: "Dckbox",
+    image: DeckboxProject,
     desc: "a replica of Moxfield using the skills I currently have",
     technologies: ["React", "Node", "Express", "Json"],
     github: "https://github.com/Tevvels/deckbox",
